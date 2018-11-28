@@ -1,18 +1,24 @@
 body{
-background-color:pink;
+  background-color:pink;
 }
 
 p{
-color:green;
-font-family:Ariel;
+  color:green;
+  font-family:Ariel;
 }
 
 h1{
-color:purple;
-font-family:Aharoni;
+  color:purple;
+  font-family:Aharoni;
 }
 
 h3{
-color:blue;
-font-family:Garamond;
+  color:blue;
+  font-family:Garamond;
+}
+
+ul{
+  list-style-type: lower-roman;
+  color:yellow;
+  font-family:"Iskoola Pota";
 }
